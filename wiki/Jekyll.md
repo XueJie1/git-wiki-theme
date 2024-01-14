@@ -3,6 +3,7 @@ author: "Xue Jie"
 date: 2024-1-14
 title: "Jekyll"
 ---
+## 简介
 Jekyll是一个简单的静态网站生成器，用于生成个人，项目或组织的网站。 它由GitHub联合创始人汤姆·普雷斯顿·沃纳用Ruby编写，并根据MIT许可证发布。
 ## 历史
 Jekyll由Tom Preston-Werner于2008年首次发布。Jekyll后来被帕克·摩尔（Parker Moore）接管，并由他领导发布Jekyll 1的工作，之后的维护者一直还是他。
